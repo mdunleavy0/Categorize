@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Vim swap files
+.*.swp
+
+# Unextended executables
+categorize
